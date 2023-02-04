@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jordi_sod@yahoo.com.mx
+	name = Jordi Sod
